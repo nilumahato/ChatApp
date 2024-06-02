@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "62319465023",
+    "project_id": "bolchaal-8d81b",
+    "storage_bucket": "bolchaal-8d81b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62319465023:android:e2aaad55eed40a187ade8a",
+        "android_client_info": {
+          "package_name": "com.example.bolchaal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62319465023-m36uuolq9tu659g1nm75fo297skd5dfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bolchaal",
+            "certificate_hash": "164fb946f2d9d9915b1b359be8648615dcb86c63"
+          }
+        },
+        {
+          "client_id": "62319465023-23fchpvs0nbhsh3o3beci0ka7kq33cvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZZPxpTuPV5owxh981qVgmJldRi4XbAVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62319465023-23fchpvs0nbhsh3o3beci0ka7kq33cvt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "62319465023-6grd8q1ift7m56nhit6p7uplsuead7l9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bolchaal.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
